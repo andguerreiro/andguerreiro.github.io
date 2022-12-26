@@ -1,11 +1,21 @@
 # [andguerreiro.github.io](andguerreiro.github.io)
 
-## [sebomelivro.com](sebomelivro.com)
+## Links
 
-## [livrani.github.io](livrani.github.io)
+### [sebomelivro.com](http://sebomelivro.com)
 
-## [bibliany.github.io](bibliany.github.io)
+### [livrani.github.io](http://livrani.github.io)
 
-## [olivrolivra.substack.com](olivrolivra.substack.com)
+### [bibliany.github.io](http://bibliany.github.io)
 
-## [write.as/sebomelivro](write.as/sebomelivro)
+### [olivrolivra.substack.com](http://olivrolivra.substack.com)
+
+### [write.as/sebomelivro](http://write.as/sebomelivro)
+
+## Stores
+
+### [Estante Virtual](https://estantevirtual.com.br/livreiros/sebomelivro)
+
+### [Shopee](https://shopee.com.br/sebo_me_livro)
+
+### [Mercado Livre](https://www.mercadolivre.com.br/perfil/sebomelivro)
