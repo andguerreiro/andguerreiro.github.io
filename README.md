@@ -16,6 +16,8 @@
 
 ### [Estante Virtual](https://estantevirtual.com.br/livreiros/sebomelivro)
 
+### [Estante Virtual - Acervo](https://estantevirtual.com.br/acervo)
+
 ### [Shopee](https://shopee.com.br/sebo_me_livro)
 
 ### [Mercado Livre](https://www.mercadolivre.com.br/perfil/sebomelivro)
