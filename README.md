@@ -2,15 +2,15 @@
 
 ## Links
 
-### [sebomelivro.com](http://sebomelivro.com)
+### [sebomelivro.com](https://sebomelivro.com)
 
-### [livrani.github.io](http://livrani.github.io)
+### [livrani.github.io](https://livrani.github.io)
 
-### [bibliany.github.io](http://bibliany.github.io)
+### [bibliany.github.io](https://bibliany.github.io)
 
-### [olivrolivra.substack.com](http://olivrolivra.substack.com)
+### [medium.com/@sebomelivro](https://medium.com/@sebomelivro)
 
-### [write.as/sebomelivro](http://write.as/sebomelivro)
+### [write.as/sebomelivro](https://write.as/sebomelivro)
 
 ## Stores
 
@@ -24,4 +24,4 @@
 
 ### [Acervo](https://estantevirtual.com.br/acervo)
 
-### [Pendentes](https://estantevirtual.com.br/vendas/pendentes)
+### [Pendentes](https://livreiro.estantevirtual.com.br/vendas/pendentes)
