@@ -1,5 +1,3 @@
-# [andguerreiro.github.io](andguerreiro.github.io)
-
 ## Links
 
 ### [sebomelivro.com](https://sebomelivro.com)
